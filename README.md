@@ -1,5 +1,5 @@
 # Poverty Gap Analysis with ASEC 2020 Survey Data
-Matt Bruenig at the People's Policy Project created an interesting way to measure the effectiveness of the US welfare state by measuring the "Total Poverty Gap". The Total Poverty Gap is defined as the total distance poor families are from the poverty threshold in dollar terms. To measure the effectiveness of welfare programs at closing this poverty gap, we measure the total poverty gap of poor families with market income alone and then compare it to the total poverty gap as measured with all money benefits the state provides to poor families. 
+Matt Bruenig at the People's Policy Project demonstrated an interesting way to view the effectiveness of the US welfare state by measuring the "Total Poverty Gap". The Total Poverty Gap is defined as the total distance poor families are from the poverty threshold in dollar terms. To measure the effectiveness of welfare programs at closing this poverty gap, we measure the total poverty gap of poor families with market income alone and then compare it to the total poverty gap as measured with all money benefits the state provides to poor families. 
 
 You can read his post describing this process [here](https://www.peoplespolicyproject.org/2019/09/16/the-us-welfare-state-cut-poverty-by-two-thirds-in-2018/).
 
