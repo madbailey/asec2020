@@ -1,0 +1,9 @@
+1. Sort individuals into different labor force categories
+=IF(WORKYN = 1, IF(A_WKSTAT = 2, "FULL TIME", "OTHER WORKER), IF(RSNNOTW =2, "Retired", IF(RSNNOTW = 1, "Disabled", IF(E2=3, "Children", IF(RSNNOTW = 4, "Student",IF(RSNNOTW =3, "Carer", IF(RSNNOTW - 5, "Unemployed, "Other Non-Worker"))))))
+Replace the Census variables with whatever column you have them as in your spreadsheet. 
+
+
+2. Sort different incomes into percentile rankings
+=ROUND(RANK.EQ(Unit_Market_Income, 1)/COUNT(Unit_Market_Income),2)
+Replace the Unit Market Income variable with the total column of market incomes you have created
+Same basic process for disposable income. This is relatively processor heavy so make yourself a cup of coffee. 
